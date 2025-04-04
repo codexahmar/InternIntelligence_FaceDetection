@@ -1,0 +1,1 @@
+/Users/ahmaryarkhan/Desktop/image-detector-main/Image Detector/image_detector/build/app/intermediates/cxx/Debug/724w4a37/obj/x86_64

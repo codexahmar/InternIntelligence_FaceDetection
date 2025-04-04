@@ -1,0 +1,1 @@
+/Users/ahmaryarkhan/Desktop/Intern Intelligence/Face Detection/face_detection/build/app/intermediates/cxx/Debug/2bk6v5mt/obj/x86

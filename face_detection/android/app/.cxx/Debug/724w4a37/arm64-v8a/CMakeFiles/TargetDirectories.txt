@@ -1,0 +1,2 @@
+/Users/ahmaryarkhan/Desktop/image-detector-main/Image Detector/image_detector/android/app/.cxx/Debug/724w4a37/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ahmaryarkhan/Desktop/image-detector-main/Image Detector/image_detector/android/app/.cxx/Debug/724w4a37/arm64-v8a/CMakeFiles/rebuild_cache.dir

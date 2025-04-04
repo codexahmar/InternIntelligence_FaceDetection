@@ -1,0 +1,2 @@
+/Users/ahmaryarkhan/Desktop/Intern Intelligence/Face Detection/face_detection/android/app/.cxx/Debug/2bk6v5mt/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ahmaryarkhan/Desktop/Intern Intelligence/Face Detection/face_detection/android/app/.cxx/Debug/2bk6v5mt/arm64-v8a/CMakeFiles/rebuild_cache.dir

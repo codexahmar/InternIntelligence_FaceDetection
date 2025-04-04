@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ahmaryarkhan/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ahmaryarkhan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ahmaryarkhan/Desktop/image-detector-main/Image Detector/image_detector/android/app/.cxx/Debug/724w4a37/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ahmaryarkhan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ahmaryarkhan/Desktop/image-detector-main/Image Detector/image_detector/android/app/.cxx/Debug/724w4a37/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
