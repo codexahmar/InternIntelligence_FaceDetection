@@ -29,7 +29,7 @@ This Flutter application uses **Google ML Kit** to detect faces in images and an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/face-detection-flutter-app.git
+   git clone https://github.com/codexahmar/InternIntelligence_FaceDetection
    
 2. **Navigate to the project folder**
     ```bash 
